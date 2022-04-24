@@ -14,10 +14,7 @@ module.exports = {
           },
         },
       },
-    },
-
-
-    
+    },    
     {
       plugin: CracoAlias,
       options: {
